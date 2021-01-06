@@ -1,0 +1,14 @@
+body{
+  background: cornsilk;
+}
+header{
+  text-align: center;
+}
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  text-shadow:chocolate 2px 2px 1px;
+}
+p{
+  font-weight: bold;
+}
